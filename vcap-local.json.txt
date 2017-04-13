@@ -1,0 +1,18 @@
+{
+  "services":
+  {
+    "cloudantNoSQLDB": [
+      {
+        "credentials": {
+            "host": "27341e45-b83f-469e-a439-702666804f8e-bluemix.cloudant.com",
+            "port": 443,
+            "url": "https://27341e45-b83f-469e-a439-702666804f8e-bluemix.cloudant.com"
+        },
+        "name": "todoCloudantFarah",
+        "label": "cloudantNoSQLDB",
+        "plan": "Lite",
+        ...
+      }
+    ]
+  }
+}
