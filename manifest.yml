@@ -3,6 +3,7 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
+  buildpack: sdk-for-nodejs 
   name: TodoAppFarah
   host: TodoAppFarah
   disk_quota: 1024M
